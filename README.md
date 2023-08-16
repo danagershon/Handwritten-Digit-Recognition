@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition
-Numerical Algorithms Winter 2022-2023 HW3: Handwritten Digit Recognition in MATLAB using Least Squares
+Numerical Algorithms Course HW3: Handwritten Digit Recognition in MATLAB using Least Squares
 
 • Program is Given a training set containing thousands of handwritten digits and their actual classification
 
